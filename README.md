@@ -9,7 +9,7 @@
 
 **Transform AI/ML research papers into production-ready training code automatically**
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation)
+[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation) 
 
 ---
 
