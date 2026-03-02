@@ -1,6 +1,6 @@
 # 📄 Paper2Code: Automated Research Paper to Executable Code
 
-<div align="center">
+<div align="center"> 
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)
