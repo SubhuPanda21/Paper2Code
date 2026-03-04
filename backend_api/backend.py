@@ -11,8 +11,18 @@ import json
 import re
 from werkzeug.utils import secure_filename
 
+
+
 app = Flask(__name__)
 CORS(app)
+
+@app.route("/")
+def home():
+    return "Paper2Code Backend is running!"
+
+@app.route("/upload", methods=["POST"])
+def upload():
+    return {"message": "upload endpoint working"}
 
 UPLOAD_FOLDER = 'uploads'
 OUTPUT_FOLDER = 'outputs'
