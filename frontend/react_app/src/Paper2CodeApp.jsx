@@ -14,7 +14,7 @@ export default function Paper2CodeApp() {
     includeCheckpointing: true
   });
 
-  const API_URL = 'http://localhost:5000';
+  const API_URL = 'https://paper2code-1.onrender.com';
 
   const steps = [
     { icon: FileText, label: 'Parsing PDF', description: 'Extracting text and structure' },
