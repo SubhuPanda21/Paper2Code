@@ -168,6 +168,12 @@
 
 ## 📊 Demo
 ## Live Demo link :- [https://paper2code-rho.vercel.app/]
+---
+Steps to use:
+1. Open the link
+2. Wait for sometime for backend to connect with frontend. This may take some extra time as backend is deployed in Render free.
+3. Once the backend shows connected, drag and drop any research paper to the upload section.
+4. Click on generate code and within few seconds you will your train.py and other codes.
 
 ### Input: Research Paper
 
